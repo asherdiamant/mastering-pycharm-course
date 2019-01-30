@@ -3,6 +3,8 @@ import random
 
 
 def main():
+
+    print("Last ep. fixed")
     show_header()
 
     service.download_info()

@@ -3,6 +3,7 @@ from collections import namedtuple
 
 import requests
 
+print ("Fixed last episode issue")
 Episode = namedtuple('Episode', 'title link pubdate show_id')
 episode_data = {}
 
